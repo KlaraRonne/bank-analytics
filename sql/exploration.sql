@@ -1,6 +1,6 @@
--- =====================================
+
 -- BANK MARKETING EXPLORATION QUERIES
--- =====================================
+
 
 -- 1. Count of responses
 SELECT y, COUNT(*) AS n_customers
