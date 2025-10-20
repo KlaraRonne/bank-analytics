@@ -4,7 +4,7 @@ This project aims to analyze which groups of customers are most likely to subscr
 
 Steps taken:
 
-1. Data Cleaning & Exploration (Python, pandas)
+1. Data Cleaning and Exploration through Python, pandas
    - Removed missing values
    - Created `age_group` categories
    - Explored distributions and response rates
