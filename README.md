@@ -32,3 +32,7 @@ Tools used:
 - Visualization: Tableau Public
 - Environment: Jupyter Notebook (Anaconda)
 
+  ## Author
+This project was created by Klara Ronnenberg
+© 2025 Klara Ronnenberg. All rights reserved.
+
